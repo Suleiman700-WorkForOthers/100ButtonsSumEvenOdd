@@ -1,0 +1,34 @@
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.pt-30 {
+    padding-top: 30px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mx-10 {
+    margin: 0 10px;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    overflow-y: auto;
+    justify-content: center;
+}
+
+.title {
+    color: white;
+}
